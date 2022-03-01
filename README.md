@@ -22,11 +22,11 @@ This repository contains only the student submission code, as such some extra de
 | TEST | STEER | THROTTLE |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |ref/untuned|  <img src="project/pid_controller/screenshot/steer_untuned.png" alt="1" width = 360px height = 360px >|<img src="project/pid_controller/screenshot/throttle_untuned.png" alt="1">|
-|1          |  <img src="project/pid_controller/screenshot/steer1.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle_1.png" alt="1" width = 360px height = 360px >|
-|2          |  <img src="project/pid_controller/screenshot/steer2.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle_2.png" alt="1" width = 360px height = 360px >|
-|3          |  <img src="project/pid_controller/screenshot/steer3.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle_3.png" alt="1" width = 360px height = 360px >|
-|4          |  <img src="project/pid_controller/screenshot/steer4.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle_4.png" alt="1" width = 360px height = 360px >|
-|5          |  <img src="project/pid_controller/screenshot/steer5.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle_5.png" alt="1" width = 360px height = 360px >|
+|1          |  <img src="project/pid_controller/screenshot/steer1.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle1.png" alt="1" width = 360px height = 360px >|
+|2          |  <img src="project/pid_controller/screenshot/steer2.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle2.png" alt="1" width = 360px height = 360px >|
+|3          |  <img src="project/pid_controller/screenshot/steer3.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle3.png" alt="1" width = 360px height = 360px >|
+|4          |  <img src="project/pid_controller/screenshot/steer4.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle4.png" alt="1" width = 360px height = 360px >|
+|5          |  <img src="project/pid_controller/screenshot/steer5.png" alt="1" width = 360px height = 360px > |<img src="project/pid_controller/screenshot/throttle5.png" alt="1" width = 360px height = 360px >|
 
 
 ### 2. What is the effect of the PID according to the plots, how each part of the PID affects the control command?
